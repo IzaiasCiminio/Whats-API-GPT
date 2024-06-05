@@ -1,4 +1,4 @@
-# Whats-API-GPT
+# Whatsapp + API-GPT
 Projeto criando com um curso de automação Python
 
 Esta automação implementada em Python utiliza a biblioteca Selenium para interagir com o WhatsApp Web e a API do OpenAI para processar e responder mensagens automaticamente. Abaixo está uma breve descrição das etapas e funcionalidades do código:
